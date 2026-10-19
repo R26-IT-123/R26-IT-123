@@ -24,3 +24,5 @@ def list_my_notifications(
 ) -> list[NotificationOut]:
     items = notification_service.list_notifications(uid=user["uid"])
     return [NotificationOut(**item) for item in items]
+
+#Cheked by me
