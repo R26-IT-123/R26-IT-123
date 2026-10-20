@@ -40,3 +40,5 @@ def get_driver_entries(driver_id: str, _: dict = Depends(get_current_user)) -> l
 @router.get("/route/{route_id}/summary", response_model=RideSummaryOut)
 def get_route_summary(route_id: str, _: dict = Depends(get_current_user)) -> RideSummaryOut:
     return RideSummaryOut(**feedback_service.get_route_latest_summary(route_id))
+
+#I checked the codes

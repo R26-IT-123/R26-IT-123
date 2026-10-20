@@ -142,3 +142,6 @@ def get_my_routes(user: dict = Depends(get_current_user)) -> list[RouteOut]:
 @router.get("/driver/{driver_id}/bank-account", response_model=BankAccountOut)
 def get_driver_bank_account(driver_id: str, _: dict = Depends(get_current_user)) -> BankAccountOut:
     return BankAccountOut(**route_service.get_driver_bank_account(driver_id))
+
+
+#newly checked
