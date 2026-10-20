@@ -1,0 +1,12 @@
+# Local credentials
+**/firebase-adminsdk.json
+
+# Flutter and editor output
+**/.dart_tool/
+**/.idea/
+**/flutter_*.log
+
+# Local environment
+**/.env
+**/.env.local
+**/.DS_Store

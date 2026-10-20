@@ -1,0 +1,167 @@
+[
+  {
+    "subject": "IME",
+    "topic": "Lec 1",
+    "chunks": 35
+  },
+  {
+    "subject": "IME",
+    "topic": "Lec 10",
+    "chunks": 28
+  },
+  {
+    "subject": "IME",
+    "topic": "Lec 11",
+    "chunks": 7
+  },
+  {
+    "subject": "IME",
+    "topic": "Lec 2",
+    "chunks": 29
+  },
+  {
+    "subject": "IME",
+    "topic": "Lec 3",
+    "chunks": 21
+  },
+  {
+    "subject": "IME",
+    "topic": "Lec 4",
+    "chunks": 19
+  },
+  {
+    "subject": "IME",
+    "topic": "Lec 5",
+    "chunks": 20
+  },
+  {
+    "subject": "IME",
+    "topic": "Lec 6",
+    "chunks": 3
+  },
+  {
+    "subject": "IME",
+    "topic": "Lec 7",
+    "chunks": 8
+  },
+  {
+    "subject": "IME",
+    "topic": "Lec 8",
+    "chunks": 4
+  },
+  {
+    "subject": "IME",
+    "topic": "Lec 9",
+    "chunks": 4
+  },
+  {
+    "subject": "MTIT",
+    "topic": "Topic 1 – Introduction to Artificial Intelligence",
+    "chunks": 14
+  },
+  {
+    "subject": "MTIT",
+    "topic": "Topic 2 – Software Development",
+    "chunks": 20
+  },
+  {
+    "subject": "MTIT",
+    "topic": "Topic 3 – Introduction to Cloud Computing",
+    "chunks": 12
+  },
+  {
+    "subject": "MTIT",
+    "topic": "Topic 4 – Extended Reality",
+    "chunks": 3
+  },
+  {
+    "subject": "OSSA",
+    "topic": "Lec 1",
+    "chunks": 5
+  },
+  {
+    "subject": "OSSA",
+    "topic": "Lec 10",
+    "chunks": 3
+  },
+  {
+    "subject": "OSSA",
+    "topic": "Lec 11",
+    "chunks": 5
+  },
+  {
+    "subject": "OSSA",
+    "topic": "Lec 2",
+    "chunks": 4
+  },
+  {
+    "subject": "OSSA",
+    "topic": "Lec 3",
+    "chunks": 5
+  },
+  {
+    "subject": "OSSA",
+    "topic": "Lec 4",
+    "chunks": 3
+  },
+  {
+    "subject": "OSSA",
+    "topic": "Lec 5",
+    "chunks": 5
+  },
+  {
+    "subject": "OSSA",
+    "topic": "Lec 6",
+    "chunks": 4
+  },
+  {
+    "subject": "OSSA",
+    "topic": "Lec 7",
+    "chunks": 5
+  },
+  {
+    "subject": "OSSA",
+    "topic": "Lec 8",
+    "chunks": 5
+  },
+  {
+    "subject": "OSSA",
+    "topic": "Lec 9",
+    "chunks": 5
+  },
+  {
+    "subject": "SQA",
+    "topic": "Code Coverage Analysis",
+    "chunks": 5
+  },
+  {
+    "subject": "SQA",
+    "topic": "Functional Testing",
+    "chunks": 6
+  },
+  {
+    "subject": "SQA",
+    "topic": "Software Maturity Models",
+    "chunks": 2
+  },
+  {
+    "subject": "SQA",
+    "topic": "Software Quality and Metrics",
+    "chunks": 9
+  },
+  {
+    "subject": "SQA",
+    "topic": "Specification-Based Test Case Design Techniques",
+    "chunks": 8
+  },
+  {
+    "subject": "SQA",
+    "topic": "Test Automation",
+    "chunks": 4
+  },
+  {
+    "subject": "SQA",
+    "topic": "Topic 7",
+    "chunks": 19
+  }
+]
