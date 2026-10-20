@@ -9,6 +9,8 @@ The main note management logic is implemented in `services/note_service.py`.
 The service integrates note extraction, scoring, approval decisions, Firebase Firestore, Firebase Storage, PDF generation, and token management.
 
 ## 2. Academic Note Validation
+# Validates academic notes using text extraction and quality scoring.
+# Stores evaluation results in Firestore for the publishing workflow.
 
 The `validate_note()` function processes submitted academic notes.
 
@@ -33,6 +35,7 @@ The `validate_note()` function processes submitted academic notes.
 8. Determine approval and token rewards using `tokens_util.calculate()`.
 9. Create a unique note identifier.
 10. Save the validation results to Firebase Firestore.
+
 
 ### Validation Responses
 
